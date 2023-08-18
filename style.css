@@ -1,0 +1,38 @@
+.heading
+{
+    font-size: 26px;
+    text-shadow: 4px 4px 2px rgb(243, 118, 234);
+    width: 100%;
+    margin: 0px;
+    color: white;
+    box-shadow: 5px 5px 5px  rgb(236, 65, 185);
+    background-color: rgb(235, 72, 99);
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.heading:hover{
+    color: rgb(255, 255, 255);
+    text-shadow: 4px 4px 2px rgb(128, 84, 215);
+    box-shadow: 7px 7px 5px  rgb(255, 246, 69);
+}
+.note
+{
+    font-size: 20px;
+    font-weight: 100;
+    color: white;
+    text-shadow: none;
+}
+
+.copy_right_footer{
+  background-color: palevioletred;
+  position: fixed;
+bottom: 0;
+width: 100%;
+box-shadow: 6px 6px 5px inset rgb(214, 96, 96);
+font-size: 20px;
+padding: 5px;
+color: white;
+background-color: rgb(206, 48, 75);
+font-weight: bold;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
